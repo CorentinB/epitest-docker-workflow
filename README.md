@@ -4,6 +4,10 @@ This is a script that help you install the epitest docker image and a soft calle
 for a continuous testing environment for epitech. You'll also get explanations on how to use
 those software.
 
+# DISCLAIMER!
+
+You need virtualbox to be installed.
+
 # Download & installation
 
 ```
